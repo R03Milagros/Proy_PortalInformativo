@@ -257,9 +257,11 @@ section
 {
 	height: 100%;
 }
+/* CONTENEDOR DE INICIO */
 .super_container
 {
 	width: 100%;
+	/*max-width: 1200px;*/
 	overflow: hidden;
 }
 .prlx_parent
